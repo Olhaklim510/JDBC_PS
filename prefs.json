@@ -1,0 +1,13 @@
+{
+  "dbUrl": "jdbc:h2:./test",
+  "initDbSql": "./sql/init_db.sql",
+  "populateWorkerDbCsv": "./csv/populate_worker_db.csv",
+  "populateClientDbCsv": "./csv/populate_client_db.csv",
+  "populateProjectDbCsv": "./csv/populate_project_db.csv",
+  "populateProjectWorkerDbCsv": "./csv/populate_project_worker_db.csv",
+  "QueryFindMaxSalaryWorkerSql": "./sql/find_max_salary_worker.sql",
+  "QueryFindMaxProjectsClientSql": "./sql/find_max_projects_client.sql",
+  "QueryFindLongestProjectSql": "./sql/find_longest_project.sql",
+  "QueryFindYoungestEldestWorkersSql": "./sql/find_youngest_eldest_workers.sql",
+  "QueryFindProjectPricesSql": "./sql/print_project_prices.sql"
+}
