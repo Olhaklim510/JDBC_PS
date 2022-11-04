@@ -1,4 +1,4 @@
-package com.company.JDBC.prefs;
+package com.company.JDBC_PS.prefs;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;

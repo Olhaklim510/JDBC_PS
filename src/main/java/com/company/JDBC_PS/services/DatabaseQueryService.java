@@ -1,7 +1,7 @@
-package com.company.JDBC.services;
+package com.company.JDBC_PS.services;
 
-import com.company.JDBC.model.*;
-import com.company.JDBC.prefs.Prefs;
+import com.company.JDBC_PS.model.*;
+import com.company.JDBC_PS.prefs.Prefs;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.sql.Connection;

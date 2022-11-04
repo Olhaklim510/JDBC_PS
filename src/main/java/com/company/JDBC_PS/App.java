@@ -1,7 +1,7 @@
-package com.company.JDBC;
+package com.company.JDBC_PS;
 
-import com.company.JDBC.services.Database;
-import com.company.JDBC.services.DatabaseQueryService;
+import com.company.JDBC_PS.services.Database;
+import com.company.JDBC_PS.services.DatabaseQueryService;
 
 public class App {
     public static void main(String[] args) throws Exception {
