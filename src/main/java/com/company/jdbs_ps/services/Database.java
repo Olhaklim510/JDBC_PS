@@ -1,6 +1,6 @@
-package com.company.JDBC_PS.services;
+package com.company.jdbs_ps.services;
 
-import com.company.JDBC_PS.prefs.Prefs;
+import com.company.jdbs_ps.prefs.Prefs;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

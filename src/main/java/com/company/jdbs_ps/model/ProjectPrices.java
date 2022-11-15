@@ -1,4 +1,4 @@
-package com.company.JDBC_PS.model;
+package com.company.jdbs_ps.model;
 
 public class ProjectPrices {
     private String name;
